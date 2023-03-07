@@ -1,0 +1,1 @@
+## Docs for first vagrant task
